@@ -138,9 +138,21 @@ These examples show how a simple Python application can help improve agricultura
 
 
 **System Screensots:**
+
+
 <img width="608" height="279" alt="image" src="https://github.com/user-attachments/assets/ce39b93d-05d3-4feb-9fd7-860e8b521ecb" />
 
+
 <img width="672" height="388" alt="image" src="https://github.com/user-attachments/assets/2ea954c2-b99d-47f6-87d6-f4a34ae40959" />
+
+
+<img width="685" height="389" alt="image" src="https://github.com/user-attachments/assets/69c10dff-344b-4838-b85c-291218ce4fe5" />
+
+
+<img width="685" height="396" alt="image" src="https://github.com/user-attachments/assets/11aa3f76-a6a8-4711-b2bb-7f78239758bb" />
+
+
+<img width="654" height="301" alt="image" src="https://github.com/user-attachments/assets/933d23f8-35a5-4e40-a888-0731b8413734" />
 
 
 
