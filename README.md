@@ -156,8 +156,15 @@ These examples show how a simple Python application can help improve agricultura
 
 
 
+
+
 **9. Conclusion**
 The Crop Management System is a small digital solution intended to improve agricultural record-keeping. It supports public-benefit, accessibility, reusability, documentation, and sustainability principles. However, these qualities alone do not establish formal compliance with the Digital Public Goods Standard. Further development, appropriate licensing, testing, and assessment would be needed before making that claim.
+
+
+
+
+
 
 **10. Reference**
 Digital Public Goods Alliance. (n.d.). Digital Public Goods Standard. https://standard.digitalpublicgoods.net/
