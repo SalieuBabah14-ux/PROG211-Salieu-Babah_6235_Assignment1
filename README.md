@@ -136,6 +136,14 @@ Note: These examples illustrate the expected interaction and are illustrative ra
 The Crop Management System should help users organise crop information, monitor crop growth, and maintain harvest records. If JSON storage is implemented, saved records should remain available when the program is reopened.
 These examples show how a simple Python application can help improve agricultural record-keeping.
 
+
+**System Screensots:**
+<img width="608" height="279" alt="image" src="https://github.com/user-attachments/assets/ce39b93d-05d3-4feb-9fd7-860e8b521ecb" />
+
+<img width="672" height="388" alt="image" src="https://github.com/user-attachments/assets/2ea954c2-b99d-47f6-87d6-f4a34ae40959" />
+
+
+
 **9. Conclusion**
 The Crop Management System is a small digital solution intended to improve agricultural record-keeping. It supports public-benefit, accessibility, reusability, documentation, and sustainability principles. However, these qualities alone do not establish formal compliance with the Digital Public Goods Standard. Further development, appropriate licensing, testing, and assessment would be needed before making that claim.
 
